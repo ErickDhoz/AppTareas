@@ -1,0 +1,15 @@
+.tareas-lista-contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 15px;
+}
+@media only screen and (max-width : 900px) {
+    .tareas-lista-contenedor{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 9px;
+    }
+    }
+
